@@ -17,3 +17,5 @@ for i, char in enumerate(story):
         start_of_word = -1
 
 print(words)
+
+answers = {}
